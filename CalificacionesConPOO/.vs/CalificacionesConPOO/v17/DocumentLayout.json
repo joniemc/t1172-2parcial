@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\projects\\.Net\\t1172-2parcial\\CalificacionesConPOO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F250A64-228C-42FB-BDE0-3FA9B21A3CFA}|EjerciciosConListasPOO\\EjerciciosConListasPOO.csproj|c:\\projects\\.net\\t1172-2parcial\\calificacionesconpoo\\ejerciciosconlistaspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F250A64-228C-42FB-BDE0-3FA9B21A3CFA}|EjerciciosConListasPOO\\EjerciciosConListasPOO.csproj|solutionrelative:ejerciciosconlistaspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E15A456-3342-483E-B119-EB2133A45553}|CalificacionesConPOO\\CalificacionesConPOO.csproj|c:\\projects\\.net\\t1172-2parcial\\calificacionesconpoo\\calificacionesconpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E15A456-3342-483E-B119-EB2133A45553}|CalificacionesConPOO\\CalificacionesConPOO.csproj|solutionrelative:calificacionesconpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\.Net\\t1172-2parcial\\CalificacionesConPOO\\EjerciciosConListasPOO\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosConListasPOO\\Program.cs",
+              "ToolTip": "C:\\projects\\.Net\\t1172-2parcial\\CalificacionesConPOO\\EjerciciosConListasPOO\\Program.cs",
+              "RelativeToolTip": "EjerciciosConListasPOO\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:56:00.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\.Net\\t1172-2parcial\\CalificacionesConPOO\\CalificacionesConPOO\\Program.cs",
               "RelativeDocumentMoniker": "CalificacionesConPOO\\Program.cs",
               "ToolTip": "C:\\projects\\.Net\\t1172-2parcial\\CalificacionesConPOO\\CalificacionesConPOO\\Program.cs",
               "RelativeToolTip": "CalificacionesConPOO\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T01:11:06.676Z",
               "EditorCaption": ""
