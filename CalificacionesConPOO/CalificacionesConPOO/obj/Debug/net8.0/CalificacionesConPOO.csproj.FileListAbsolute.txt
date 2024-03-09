@@ -1,0 +1,15 @@
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\bin\Debug\net8.0\CalificacionesConPOO.exe
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\bin\Debug\net8.0\CalificacionesConPOO.deps.json
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\bin\Debug\net8.0\CalificacionesConPOO.runtimeconfig.json
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\bin\Debug\net8.0\CalificacionesConPOO.dll
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\bin\Debug\net8.0\CalificacionesConPOO.pdb
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\obj\Debug\net8.0\CalificacionesConPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\obj\Debug\net8.0\CalificacionesConPOO.AssemblyInfoInputs.cache
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\obj\Debug\net8.0\CalificacionesConPOO.AssemblyInfo.cs
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\obj\Debug\net8.0\CalificacionesConPOO.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\obj\Debug\net8.0\CalificacionesConPOO.sourcelink.json
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\obj\Debug\net8.0\CalificacionesConPOO.dll
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\obj\Debug\net8.0\refint\CalificacionesConPOO.dll
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\obj\Debug\net8.0\CalificacionesConPOO.pdb
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\obj\Debug\net8.0\CalificacionesConPOO.genruntimeconfig.cache
+C:\projects\.Net\t1172-2parcial\CalificacionesConPOO\CalificacionesConPOO\obj\Debug\net8.0\ref\CalificacionesConPOO.dll

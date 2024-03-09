@@ -1,0 +1,15 @@
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\bin\Debug\net8.0\classesandobjects.exe
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\bin\Debug\net8.0\classesandobjects.deps.json
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\bin\Debug\net8.0\classesandobjects.runtimeconfig.json
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\bin\Debug\net8.0\classesandobjects.dll
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\bin\Debug\net8.0\classesandobjects.pdb
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\obj\Debug\net8.0\classesandobjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\obj\Debug\net8.0\classesandobjects.AssemblyInfoInputs.cache
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\obj\Debug\net8.0\classesandobjects.AssemblyInfo.cs
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\obj\Debug\net8.0\classesandobjects.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\obj\Debug\net8.0\classesandobjects.sourcelink.json
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\obj\Debug\net8.0\classesandobjects.dll
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\obj\Debug\net8.0\refint\classesandobjects.dll
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\obj\Debug\net8.0\classesandobjects.pdb
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\obj\Debug\net8.0\classesandobjects.genruntimeconfig.cache
+C:\projects\.Net\t1172-2parcial\classesandobjects\classesandobjects\obj\Debug\net8.0\ref\classesandobjects.dll
