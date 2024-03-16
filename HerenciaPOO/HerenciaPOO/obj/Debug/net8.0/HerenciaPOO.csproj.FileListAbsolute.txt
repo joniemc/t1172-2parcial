@@ -1,0 +1,15 @@
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\bin\Debug\net8.0\HerenciaPOO.exe
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\bin\Debug\net8.0\HerenciaPOO.deps.json
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\bin\Debug\net8.0\HerenciaPOO.runtimeconfig.json
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\bin\Debug\net8.0\HerenciaPOO.dll
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\bin\Debug\net8.0\HerenciaPOO.pdb
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\obj\Debug\net8.0\HerenciaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\obj\Debug\net8.0\HerenciaPOO.AssemblyInfoInputs.cache
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\obj\Debug\net8.0\HerenciaPOO.AssemblyInfo.cs
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\obj\Debug\net8.0\HerenciaPOO.csproj.CoreCompileInputs.cache
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\obj\Debug\net8.0\HerenciaPOO.sourcelink.json
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\obj\Debug\net8.0\HerenciaPOO.dll
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\obj\Debug\net8.0\refint\HerenciaPOO.dll
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\obj\Debug\net8.0\HerenciaPOO.pdb
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\obj\Debug\net8.0\HerenciaPOO.genruntimeconfig.cache
+C:\projects\.Net\t1172-2parcial\HerenciaPOO\HerenciaPOO\obj\Debug\net8.0\ref\HerenciaPOO.dll
