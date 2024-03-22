@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\.Net\\t1172-2parcial\\ExamenII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2305413F-7687-4BF0-9F21-86ADD3F918AA}|ExamenII\\ExamenII.csproj|c:\\projects\\.net\\t1172-2parcial\\examenii\\examenii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2305413F-7687-4BF0-9F21-86ADD3F918AA}|ExamenII\\ExamenII.csproj|solutionrelative:examenii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\.Net\\t1172-2parcial\\ExamenII\\ExamenII\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenII\\Program.cs",
+              "ToolTip": "C:\\projects\\.Net\\t1172-2parcial\\ExamenII\\ExamenII\\Program.cs",
+              "RelativeToolTip": "ExamenII\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:06:36.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

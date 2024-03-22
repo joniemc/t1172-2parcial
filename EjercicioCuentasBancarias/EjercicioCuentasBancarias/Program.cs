@@ -1,6 +1,7 @@
 ﻿ using System;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
+using System.Data.OleDb;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,6 +13,10 @@ namespace EjercicioCuentasBancarias
     {
         public static void Main(string[] args)
         {
+            string cadenaConexion = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source='Database1.accdb'";
+            OleDbConnection conexion = new OleDbConnection(cadenaConexion);
+            conexion.Open();
+
             List<CuentaBancariaBase> listaCuentaBancaria = new List<CuentaBancariaBase>(); 
             int opcion = 0;
             do {
@@ -78,12 +83,30 @@ namespace EjercicioCuentasBancarias
                         }
                         else {
                             //Find Metodo que sirve para buscar dentro de la lista
-                            CuentaBancariaBase temporal = listaCuentaBancaria.Find(c => c.IdCuenta==cuentaBorrar );
-                            listaCuentaBancaria.Remove(temporal);
+                            CuentaBancariaBase cuentaTemporal = listaCuentaBancaria.Find(cuentaRecorrido => cuentaRecorrido.IdCuenta==cuentaBorrar);
+                            listaCuentaBancaria.Remove(cuentaTemporal);
                             Console.WriteLine("Eliminado con Exito..");
                         }
                         Console.WriteLine("===================================================");
                         Console.WriteLine();
+                        break;
+                    case 3:
+                        Console.WriteLine();
+                        Console.WriteLine("=================Depositar=================");
+                        Console.WriteLine();
+                        Console.WriteLine("Ingrese el numero de cuenta: ");
+                        string cuentaDeposito = Console.ReadLine();
+                        Console.WriteLine("Ingrese el monto a depositar: ");
+                        double montoDepositar = Convert.ToDouble(Console.ReadLine());
+
+
+                        foreach (CuentaBancariaBase cuentaActual in listaCuentaBancaria)
+                        {
+                            if (cuentaActual.IdCuenta.Equals(cuentaDeposito))
+                            {
+                                cuentaActual.Depositar(montoDepositar);
+                            }
+                        }
                         break;
                     case 5:
                         Console.WriteLine();
